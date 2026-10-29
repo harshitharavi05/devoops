@@ -2,7 +2,6 @@
 # print.py
 
 print("Hello, World!")
-print("Welcome to Python programming!")
 
 name = input("Enter your name: ")
 print("Hello,", name)
